@@ -86,9 +86,10 @@ NEXT STEPS
 
 REGOLE:
 - usa bullet point
-- linguaggio tecnico
+-utilizza soltanto l'ITALIANO
+- linguaggio tecnico 
 - non inventare informazioni, usa solo quelle estrapolate
-- il presales deve essere chiaro e tutto in italiano
+- il presales deve essere chiaro e facile da leggere
 
 DATI:
 {extracted_info}
