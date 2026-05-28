@@ -2,82 +2,83 @@
         GENERATED PRE-SALES DOCUMENT
 ========================================
 
-Here is the Pre-Sales Document in the required format:
+Here is a clear and well-structured pre-sales document:
 
 ==============================
 PRE-SALES DOCUMENT
 ==============================
 
-Cliente: ACRE Manufacturing
+**Cliente:** ACRE Manufacturing
 
 ----------------------------------------
 EXECUTIVE SUMMARY
 ----------------------------------------
 
-The customer, ACRE Manufacturing, is experiencing difficulties in understan[9D[K
-understanding when and why machines stop. They are looking for a simple ana[3D[K
-analytics solution to anticipate and predict problems.
+The client, ACRE Manufacturing, is seeking a solution to improve visibility[10D[K
+visibility into their industrial production processes, reduce downtime, and[3D[K
+and centralize data.
 
 ----------------------------------------
 CONTESTO CLIENTE
 ----------------------------------------
 
-The context of the conversation is about the customer's problems with under[5D[K
-understanding machine downtime, their current logging systems, and their de[2D[K
-desire for a simple analytics solution to anticipate and predict problems.
+ACRE Manufacturing is looking for a way to better understand when and why m[1D[K
+machines stop. The conversation highlights the difficulties in logging and [K
+correlating machine performance data.
 
 ----------------------------------------
 PAIN POINTS
 ----------------------------------------
 
-• Difficulty in understanding when and why machines stop
-• Logging data is distributed and hard to correlate
+* Difficulty understanding when and why machines stop
+* Logging data is distributed and hard to correlate
 
 ----------------------------------------
 OBIETTIVI
 ----------------------------------------
 
-• Simple analytics solution
-• Ability to anticipate problems
-• Predictive capabilities
-• Centralized visibility into machine performance
-• Correlation of data
+* Simple analytics solution
+* Ability to anticipate problems, not just react to them
+* Centralized visibility into machine performance
+* Correlation of data
 
 ----------------------------------------
 SOLUZIONE PROPOSTA
 ----------------------------------------
 
-• Centralized visibility
-• Data correlation
-• Predictive capabilities
+We propose a solution that addresses the client's needs:
+
+* Centralized visibility into machine behavior
+* Data correlation and predictive capabilities
+* Simple analytics for anticipating problems, not just reacting to them
 
 ----------------------------------------
 ARCHITETTURA
 ----------------------------------------
 
-• Utilizzo di tecnologie di analisi di big data per identificare pattern e [K
-tendenze nei dati e anticipare i problemi
-• Creazione di un approccio cloud-based per integrare i dati da diverse fon[3D[K
-fonti e fornire una visibilità centralizzata
+Our proposed solution integrates with the client's existing Azure infrastru[9D[K
+infrastructure and requires minimal IT resources.
 
 ----------------------------------------
 VALORE PER IL CLIENTE
 ----------------------------------------
 
-• Migliorare la visibilità delle attività produttive
-• Ridurre i tempi di fermo
-• Centralizzare i dati
+This solution will provide ACRE Manufacturing with:
+
+* Improved visibility into their industrial production processes
+* Reduced downtime and increased efficiency
+* Centralized data for better decision-making
 
 ----------------------------------------
 RISCHI / VINCOLI
 ----------------------------------------
 
-• La soluzione deve essere semplice e facile da utilizzare
-• Deve essere in grado di anticipare i problemi, non solo reagire
+Our proposed solution is flexible and scalable, requiring minimal IT resour[6D[K
+resources.
 
 ----------------------------------------
 NEXT STEPS
 ----------------------------------------
 
-• Valutazione della fattibilità e del costo della soluzione proposta
-• Stabilimento di un piano d'azione dettagliato
+Next steps include a detailed technical discussion to further explore the c[1D[K
+client's needs and our proposed solution.

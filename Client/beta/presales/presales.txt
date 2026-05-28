@@ -2,7 +2,7 @@
         GENERATED PRE-SALES DOCUMENT
 ========================================
 
-Here is the formatted document:
+Here is the PRE-SALES DOCUMENT in the required format:
 
 ==============================
 PRE-SALES DOCUMENT
@@ -14,66 +14,77 @@ Cliente: Beta Digital Services
 EXECUTIVE SUMMARY
 ----------------------------------------
 
-Beta Digital Services, a SaaS provider, seeks to improve its customer suppo[5D[K
-support processes. The company experiences a high volume of requests, leadi[5D[K
-leading to manual processing and reliance on human operators.
+Beta Digital Services, a SaaS provider, faces challenges in their customer [K
+support process. With a high volume of daily tickets and manual processes, [K
+they are looking for solutions to improve response times, reduce workload, [K
+and enhance customer experience.
 
 ----------------------------------------
 CONTESTO CLIENTE
 ----------------------------------------
 
-* Alto volume di richieste clienti
-* Processo di supporto manuale
-* Operatori sovraccarichi
+Beta Digital Services is a player in the SaaS industry, providing software [K
+services to customers. The focus is on improving customer satisfaction and [K
+reducing the workload on human operators.
 
 ----------------------------------------
 PAIN POINTS
 ----------------------------------------
-- Tempi di risposta elevati
-- Bassa automazione
-- Dipendenza da operatori umani
+
+* High volume of daily tickets
+* Manual processes with little automation
+* Heavy reliance on human operators
 
 ----------------------------------------
 OBIETTIVI
 ----------------------------------------
-- Automatizzare il supporto clienti
-- Ridurre workload operatori
-- Migliorare customer experience
+
+* Automate customer support process
+* Improve response times to customers
+* Enhance overall customer experience
 
 ----------------------------------------
 SOLUZIONE PROPOSTA
 ----------------------------------------
 
-* Implementazione di un sistema di chatbot per ridurre la workload sui oper[4D[K
-operatori umani e migliorare l'esperienza dei clienti
-* Automazione del supporto clienti con generazione di risposte AI-powered
-* Integrazione con la piattaforma Zendesk per gestione dei ticket e workflo[7D[K
-workflow personalizzati
+We propose the following solutions:
+
+* Implement a chatbot system to reduce workload and improve customer experi[6D[K
+experience
+* Automate customer support with AI-powered responses
+* Integrate with Zendesk for ticket management and workflow customization
 
 ----------------------------------------
 ARCHITETTURA
 ----------------------------------------
 
-* Sistema di chatbot con generazione di risposte AI-powered
-* Integrazione con la piattaforma Zendesk
-* Workflow personalizzati per operatori umani
+Our solution will be designed to integrate seamlessly with Beta Digital Ser[3D[K
+Services' existing infrastructure, including Zendesk. We will work closely [K
+with their team to determine specific needs and implement a customized plan[4D[K
+plan.
 
 ----------------------------------------
 VALORE PER IL CLIENTE
 ----------------------------------------
-- Miglioramento dell'efficienza dei processi
-- Riduzione del carico di lavoro sui operatori umani
-- Miglioramento della soddisfazione dei clienti
+
+* Improved response times to customers
+* Reduced workload on human operators
+* Enhanced overall customer experience
 
 ----------------------------------------
 RISCHI / VINCOLI
 ----------------------------------------
-- Budget limitato
-- Necessità di rollout veloce
+
+* Budget limitations
+* Need for rapid rollout and implementation
 
 ----------------------------------------
 NEXT STEPS
 ----------------------------------------
-- Confronto con i membri del team per determinare le esigenze specifiche
-- Valutazione delle opzioni tecnologiche disponibili
-- Creazione di un piano d'azione dettagliato
+
+Next steps will include:
+
+* Confrontation with Beta Digital Services' team to determine specific need[4D[K
+needs
+* Evaluation of available technological options
+* Creation of a detailed action plan
