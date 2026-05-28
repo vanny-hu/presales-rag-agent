@@ -1,0 +1,79 @@
+========================================
+        GENERATED PRE-SALES DOCUMENT
+========================================
+
+Here is the pre-sales document in the required format:
+
+==============================
+PRE-SALES DOCUMENT
+==============================
+
+Cliente: Acre Manufacturing
+
+----------------------------------------
+EXECUTIVE SUMMARY
+----------------------------------------
+Acre Manufacturing, an industrial production company, seeks to improve visi[4D[K
+visibility into their production processes and reduce downtime. They requir[6D[K
+require a centralized data management solution that can provide real-time i[1D[K
+insights and predictive capabilities.
+
+----------------------------------------
+CONTESTO CLIENTE
+----------------------------------------
+Industrial manufacturing production environment with multiple production li[2D[K
+lines, different monitoring systems, and distributed data across various pl[2D[K
+platforms. No centralized dashboard for monitoring and analyzing data.
+
+----------------------------------------
+PAIN POINTS
+----------------------------------------
+• Difficulty in detecting downtime
+• Lack of real-time visibility
+• Manual analysis of data
+
+----------------------------------------
+OBIETTIVI
+----------------------------------------
+• Improved visibility into production processes
+• Reduced downtime
+• Centralized data management
+
+----------------------------------------
+SOLUZIONE PROPOSTA
+----------------------------------------
+Our proposed solution includes:
+• Centralized visibility
+• Data correlation capabilities
+• Predictive analytics to anticipate problems and prevent downtime
+
+----------------------------------------
+ARCHITETTURA
+----------------------------------------
+We recommend leveraging the existing Azure environment (storage) to integra[7D[K
+integrate with our proposed solution, taking into account the limited IT te[2D[K
+team resources.
+
+----------------------------------------
+VALORE PER IL CLIENTE
+----------------------------------------
+Our solution will provide:
+• Real-time insights into production processes
+• Improved visibility and reduced downtime
+• Simplified data analysis and correlation
+
+----------------------------------------
+RISCHI / VINCOLI
+----------------------------------------
+• Existing Azure environment (storage)
+• Limited IT team resources
+
+----------------------------------------
+NEXT STEPS
+----------------------------------------
+We recommend the following next steps:
+• Conduct a detailed assessment of Acre Manufacturing's current infrastruct[11D[K
+infrastructure and systems
+• Develop a customized solution to meet their specific needs and goals
+• Provide training and support for the implementation and ongoing use of ou[2D[K
+our proposed solution

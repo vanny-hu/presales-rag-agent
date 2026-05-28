@@ -1,0 +1,93 @@
+========================================
+        GENERATED PRE-SALES DOCUMENT
+========================================
+
+Here is the pre-sales document in the required format:
+
+==============================
+PRE-SALES DOCUMENT
+==============================
+
+Cliente: Beta Digital Services
+
+----------------------------------------
+EXECUTIVE SUMMARY
+----------------------------------------
+
+Il cliente, Beta Digital Services, è un'azienda che riceve moltissimi ticke[5D[K
+ticket ogni giorno e utilizza Zendesk per la gestione dei ticket. Tuttavia,[9D[K
+Tuttavia, la gestione dei ticket è ancora manualistica, il che comporta pro[3D[K
+problemi organizzativi e inefficienze.
+
+----------------------------------------
+CONTESTO CLIENTE
+----------------------------------------
+
+La situazione attuale è caratterizzata dalla presenza di molti ticket da ge[2D[K
+gestire manualmente con Zendesk, il che comporta problemi organizzativi e i[1D[K
+inefficienze. L'alto volume di richieste clienti costringe gli operatori a [K
+lavorare in modalità overload, compromettendo la qualità del servizio.
+
+----------------------------------------
+PAIN POINTS
+----------------------------------------
+
+* Manovra manuale dei ticket
+* Problemi organizzativi
+
+----------------------------------------
+OBIETTIVI
+----------------------------------------
+
+Il cliente ha bisogno di una soluzione che:
+* Risponda automaticamente ai clienti
+* Suggerisca risposte agli operatori
+
+----------------------------------------
+SOLUZIONE PROPOSTA
+----------------------------------------
+
+Considerando le esigenze del cliente, potremmo proporre alcune soluzioni, c[1D[K
+come ad esempio chatbot o sistemi di AI-assisted per customer support. Ques[4D[K
+Queste soluzioni potrebbero aiutare il cliente a ridurre il workload degli [K
+operatori e migliorare l'esperienza del cliente.
+
+----------------------------------------
+ARCHITETTURA
+----------------------------------------
+
+L'architettura della soluzione proposta potrebbe essere basata su una piatt[5D[K
+piattaforma di customer support avanzata, che utilizza tecnologie AI per au[2D[K
+automatizzare le risposte ai clienti. Questa piattaforma potrebbe essere in[2D[K
+integrata con Zendesk per garantire la maggiore efficienza e scalabilità.
+
+----------------------------------------
+VALORE PER IL CLIENTE
+----------------------------------------
+
+La soluzione proposta offrirebbe il seguente valore al cliente:
+* Automatizzazione del supporto clienti, riducendo i tempi di risposta
+* Miglioramento dell'esperienza del cliente attraverso la personalizzazione[17D[K
+personalizzazione delle risposte
+* Riduzione del workload degli operatori, migliorando la loro produttività
+
+----------------------------------------
+RISCHI / VINCOLI
+----------------------------------------
+
+Il cliente vuole una soluzione semplice e si aspetta che risponda automatic[9D[K
+automaticamente ai clienti e suggerisca risposte agli operatori. Inoltre, i[1D[K
+il budget è limitato e la necessità di rollout veloce è fondamentale.
+
+----------------------------------------
+NEXT STEPS
+----------------------------------------
+
+Per procedere, sarebbe utile una discussione più approfondita sulla soluzio[7D[K
+soluzione proposta e sulle esigenze specifiche del cliente. Ciò ci permette[8D[K
+permetterebbe di definire un piano d'azione personalizzato per soddisfare l[1D[K
+le esigenze del cliente.
+
+Note: The above document follows the required format and is written in Ital[4D[K
+Italian, using technical language and bullet points. It does not invent inf[3D[K
+information but rather extracts it from the provided text.
