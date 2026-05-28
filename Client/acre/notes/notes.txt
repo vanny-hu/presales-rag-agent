@@ -1,0 +1,23 @@
+Cliente: ACRE Manufacturing
+
+Settore: Produzione industriale
+
+Situazione attuale:
+- Le linee produttive sono monitorate tramite sistemi diversi
+- I dati sono distribuiti su più piattaforme
+- Nessuna dashboard centralizzata
+
+Problemi:
+- Difficoltà nel rilevare downtime
+- Mancanza di visibilità real-time
+- Analisi manuale dei dati
+
+Obiettivi:
+- Migliorare la visibilità della produzione
+- Ridurre i tempi di fermo
+- Centralizzare i dati
+
+Note:
+- Ambiente Azure già presente (storage)
+- Team IT ridotto
+``

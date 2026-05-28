@@ -1,0 +1,83 @@
+========================================
+        GENERATED PRE-SALES DOCUMENT
+========================================
+
+Here is the Pre-Sales Document in the required format:
+
+==============================
+PRE-SALES DOCUMENT
+==============================
+
+Cliente: ACRE Manufacturing
+
+----------------------------------------
+EXECUTIVE SUMMARY
+----------------------------------------
+
+The customer, ACRE Manufacturing, is experiencing difficulties in understan[9D[K
+understanding when and why machines stop. They are looking for a simple ana[3D[K
+analytics solution to anticipate and predict problems.
+
+----------------------------------------
+CONTESTO CLIENTE
+----------------------------------------
+
+The context of the conversation is about the customer's problems with under[5D[K
+understanding machine downtime, their current logging systems, and their de[2D[K
+desire for a simple analytics solution to anticipate and predict problems.
+
+----------------------------------------
+PAIN POINTS
+----------------------------------------
+
+• Difficulty in understanding when and why machines stop
+• Logging data is distributed and hard to correlate
+
+----------------------------------------
+OBIETTIVI
+----------------------------------------
+
+• Simple analytics solution
+• Ability to anticipate problems
+• Predictive capabilities
+• Centralized visibility into machine performance
+• Correlation of data
+
+----------------------------------------
+SOLUZIONE PROPOSTA
+----------------------------------------
+
+• Centralized visibility
+• Data correlation
+• Predictive capabilities
+
+----------------------------------------
+ARCHITETTURA
+----------------------------------------
+
+• Utilizzo di tecnologie di analisi di big data per identificare pattern e [K
+tendenze nei dati e anticipare i problemi
+• Creazione di un approccio cloud-based per integrare i dati da diverse fon[3D[K
+fonti e fornire una visibilità centralizzata
+
+----------------------------------------
+VALORE PER IL CLIENTE
+----------------------------------------
+
+• Migliorare la visibilità delle attività produttive
+• Ridurre i tempi di fermo
+• Centralizzare i dati
+
+----------------------------------------
+RISCHI / VINCOLI
+----------------------------------------
+
+• La soluzione deve essere semplice e facile da utilizzare
+• Deve essere in grado di anticipare i problemi, non solo reagire
+
+----------------------------------------
+NEXT STEPS
+----------------------------------------
+
+• Valutazione della fattibilità e del costo della soluzione proposta
+• Stabilimento di un piano d'azione dettagliato

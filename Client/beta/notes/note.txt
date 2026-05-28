@@ -1,0 +1,22 @@
+Cliente: Beta Digital Services
+
+Settore: SaaS / servizi digitali
+
+Situazione:
+- Alto volume di richieste clienti
+- Processo di supporto manuale
+- Operatori sovraccarichi
+
+Problemi:
+- Tempi di risposta elevati
+- Bassa automazione
+- Dipendenza da operatori umani
+
+Obiettivi:
+- Automatizzare il supporto clienti
+- Ridurre workload operatori
+- Migliorare customer experience
+
+Vincoli:
+- Budget limitato
+- Necessità di rollout veloce

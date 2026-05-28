@@ -1,0 +1,18 @@
+Cliente: Abbiamo difficoltà nel capire quando e perché si fermano le macchine.
+
+Sales: Avete sistemi di logging?
+
+Cliente: Sì, ma i dati sono distribuiti e difficili da correlare.
+
+Sales: State pensando a una soluzione di analytics?
+
+Cliente: Sì, ma abbiamo bisogno di qualcosa di semplice.
+
+Cliente: Vorremmo anche anticipare i problemi, non solo reagire.
+
+Sales: Quindi vi serve:
+- visibilità centralizzata
+- correlazione dati
+- capacità predittiva
+
+Cliente: Esatto.

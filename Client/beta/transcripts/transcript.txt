@@ -1,0 +1,20 @@
+Cliente: Riceviamo moltissimi ticket ogni giorno.
+
+Sales: Che strumenti usate?
+
+Cliente: Zendesk, ma tutto è manuale.
+
+Sales: Avete considerato chatbot?
+
+Cliente: Sì, ma vogliamo qualcosa di semplice.
+
+Cliente: Idealmente una soluzione che:
+- risponda automaticamente ai clienti
+- suggerisca risposte agli operatori
+
+Sales: Ok, quindi serve:
+- automazione
+- AI per customer support
+- integrazione con Zendesk
+
+Cliente: Esatto.

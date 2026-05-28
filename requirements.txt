@@ -1,0 +1,2 @@
+# nessuna dipendenza obbligatoria
+# tutto gira con python standard + ollama

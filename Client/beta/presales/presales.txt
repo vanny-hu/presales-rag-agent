@@ -1,0 +1,79 @@
+========================================
+        GENERATED PRE-SALES DOCUMENT
+========================================
+
+Here is the formatted document:
+
+==============================
+PRE-SALES DOCUMENT
+==============================
+
+Cliente: Beta Digital Services
+
+----------------------------------------
+EXECUTIVE SUMMARY
+----------------------------------------
+
+Beta Digital Services, a SaaS provider, seeks to improve its customer suppo[5D[K
+support processes. The company experiences a high volume of requests, leadi[5D[K
+leading to manual processing and reliance on human operators.
+
+----------------------------------------
+CONTESTO CLIENTE
+----------------------------------------
+
+* Alto volume di richieste clienti
+* Processo di supporto manuale
+* Operatori sovraccarichi
+
+----------------------------------------
+PAIN POINTS
+----------------------------------------
+- Tempi di risposta elevati
+- Bassa automazione
+- Dipendenza da operatori umani
+
+----------------------------------------
+OBIETTIVI
+----------------------------------------
+- Automatizzare il supporto clienti
+- Ridurre workload operatori
+- Migliorare customer experience
+
+----------------------------------------
+SOLUZIONE PROPOSTA
+----------------------------------------
+
+* Implementazione di un sistema di chatbot per ridurre la workload sui oper[4D[K
+operatori umani e migliorare l'esperienza dei clienti
+* Automazione del supporto clienti con generazione di risposte AI-powered
+* Integrazione con la piattaforma Zendesk per gestione dei ticket e workflo[7D[K
+workflow personalizzati
+
+----------------------------------------
+ARCHITETTURA
+----------------------------------------
+
+* Sistema di chatbot con generazione di risposte AI-powered
+* Integrazione con la piattaforma Zendesk
+* Workflow personalizzati per operatori umani
+
+----------------------------------------
+VALORE PER IL CLIENTE
+----------------------------------------
+- Miglioramento dell'efficienza dei processi
+- Riduzione del carico di lavoro sui operatori umani
+- Miglioramento della soddisfazione dei clienti
+
+----------------------------------------
+RISCHI / VINCOLI
+----------------------------------------
+- Budget limitato
+- Necessità di rollout veloce
+
+----------------------------------------
+NEXT STEPS
+----------------------------------------
+- Confronto con i membri del team per determinare le esigenze specifiche
+- Valutazione delle opzioni tecnologiche disponibili
+- Creazione di un piano d'azione dettagliato
